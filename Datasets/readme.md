@@ -13,6 +13,6 @@ For multivariate modelling we will use
 
 These models should help in the accurate prediction of sales.
 
-This notebook will not contain the dataset named train due to it's large size.
+This notebook contains all the datasets except the train dataset due to it's large size
 
 
